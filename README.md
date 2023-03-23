@@ -1,2 +1,2 @@
 # Minesweeper
-A minsweeper application written in Java.
+A minesweeper application written in Java.
